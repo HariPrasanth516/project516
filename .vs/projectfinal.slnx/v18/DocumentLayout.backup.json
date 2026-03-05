@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\dto\\added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\dto\\added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\models\\cricketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\models\\cricketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\controllers\\dto\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\controllers\\dto\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\migrations\\20260304080836_lastmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\migrations\\20260304080836_lastmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|c:\\users\\2480057\\onedrive - cognizant\\desktop\\projectfinal\\projectfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB9806B1-34F5-14EB-1EBE-E9F0D47A9AC8}|projectfinal\\projectfinal.csproj|solutionrelative:projectfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iservice.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Services\\Iservice.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\Services\\Iservice.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Services\\Iservice.cs*",
+              "RelativeToolTip": "projectfinal\\Controllers\\Services\\Iservice.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:14:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studentrepo.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Repository\\Studentrepo.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\Repository\\Studentrepo.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Repository\\Studentrepo.cs*",
+              "RelativeToolTip": "projectfinal\\Controllers\\Repository\\Studentrepo.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:13:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Irepository.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Repository\\Irepository.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\Repository\\Irepository.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Repository\\Irepository.cs*",
+              "RelativeToolTip": "projectfinal\\Controllers\\Repository\\Irepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:13:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studentservice.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Services\\Studentservice.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\Services\\Studentservice.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\Services\\Studentservice.cs*",
+              "RelativeToolTip": "projectfinal\\Controllers\\Services\\Studentservice.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:14:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\ValuesController.cs*",
+              "RelativeToolTip": "projectfinal\\Controllers\\ValuesController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:12:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Added.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\dto\\Added.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\dto\\Added.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\dto\\Added.cs",
+              "RelativeToolTip": "projectfinal\\Controllers\\dto\\Added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:28:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\dto\\Update.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\dto\\Update.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\dto\\Update.cs",
+              "RelativeToolTip": "projectfinal\\Controllers\\dto\\Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:28:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Applicationdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\data\\Applicationdbcontext.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\data\\Applicationdbcontext.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\data\\Applicationdbcontext.cs",
+              "RelativeToolTip": "projectfinal\\Controllers\\data\\Applicationdbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:58:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cricketer.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\models\\Cricketer.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Controllers\\models\\Cricketer.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Controllers\\models\\Cricketer.cs",
+              "RelativeToolTip": "projectfinal\\Controllers\\models\\Cricketer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:59:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "projectfinal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "projectfinal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T08:29:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Program.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Program.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Program.cs",
+              "RelativeToolTip": "projectfinal\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:01:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260304080836_lastmigrate.cs",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Migrations\\20260304080836_lastmigrate.cs",
+              "RelativeDocumentMoniker": "projectfinal\\Migrations\\20260304080836_lastmigrate.cs",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\Migrations\\20260304080836_lastmigrate.cs",
+              "RelativeToolTip": "projectfinal\\Migrations\\20260304080836_lastmigrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:08:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\appsettings.json",
+              "RelativeDocumentMoniker": "projectfinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\2480057\\OneDrive - Cognizant\\Desktop\\projectfinal\\projectfinal\\appsettings.json",
+              "RelativeToolTip": "projectfinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T08:00:49.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
